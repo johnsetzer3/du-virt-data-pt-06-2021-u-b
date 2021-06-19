@@ -17,7 +17,7 @@ In order to analyze the outcomes (successful, failed, and canceled) of theater c
 ![image_name](Resources\SS_OVLaunch.png)
 
 In order to make this data more visually friendly, I utilized a line chart, as they are typically more helpful when trying to determine trends.
-![image_name](Resources\Theater_Outcomes_vs_Launch.png)
+![image_name](.\Resources\Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
