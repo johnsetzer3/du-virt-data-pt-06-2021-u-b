@@ -37,6 +37,6 @@ One of the biggest challenges in this project was utilizing the COUNTSIF() funct
 1. Based on the data studied, plays tend to be more successful when they have a funding goal of $5,000 or less. As the goal increases, the percentage of successful campaigns steadily drops.  
 2. Based on the data studied, in the $35,000-45,000 range, we see a high success rate, though these numbers are outliers and are not reflective of the data as a whole. This can be confirmed by taking the 3rd Quartile data and adding it to the IQR multiplied by 1.5.
 - What are some limitations of this dataset?
-Some limitations of this data is that it is 4 years old. 4 years is a long time to accumulate more data. Additionally, there are other sources of funding projects other than Kickstarter. In order to determine a more accurate measure of success in crowdfunding campaigns, data from those other platforms would be necessary.
+* Some limitations of this data is that it is 4 years old. 4 years is a long time to accumulate more data. Additionally, there are other sources of funding projects other than Kickstarter. In order to determine a more accurate measure of success in crowdfunding campaigns, data from those other platforms would be necessary.
 - What are some other possible tables and/or graphs that we could create?
-We could utilize the clustered bar graph as a means of portraying the magnitude of the difference between each outcome.
+* We could utilize the clustered bar graph as a means of portraying the magnitude of the difference between each outcome.
