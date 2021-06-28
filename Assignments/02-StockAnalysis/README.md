@@ -81,10 +81,10 @@ Dim tickerStartingPrices As Single, tickerEndingPrices As Single
 
 ### What are the advantages and disadvantages of refactoring code?
 #### Advantages
-*Code refactoring makes the code more extensible by adding functionality and flexibility.
-*Refactoring code makes code much easier to understand and maintain, as well as improves the performance in which it runs.
+-Code refactoring makes the code more extensible by adding functionality and flexibility.
+-Refactoring code makes code much easier to understand and maintain, as well as improves the performance in which it runs.
 #### Disadvantages
-*Refactoring code can be very time consuming.
-*Increased chance of mistakes due to multiple added levels of complexity.
+-Refactoring code can be very time consuming.
+-Increased chance of mistakes due to multiple added levels of complexity.
 #### Original VBA Script
 Refactoring the original VBA script made the code much easier to read and maintain.  It eliminated the multiple instances of other variables and made the code run much quicker and more efficiently.  I didn't personally find any cons in refactoring the original VBA script.  However, due to the consolidation of multiple instances of code, a user could find issues in debugging if they make a mistake in the root declarations of any variables, functions, or logic statements.
