@@ -37,7 +37,7 @@ movies_df:
 For this task, I had to utilize my skills in PostgreSQL to add the movies_df DataFrame and MovieLens rating CSV data into a SQL database.  Once the tables were create, I ran a query on the movies and ratings data sets.
 
 Movies_query:
-![image_name](./Data/movies_query.png)
+![image_name](./Data/movie_query.png)
 
 Ratings_query:
 ![image_name](./Data/ratings_query.png)
