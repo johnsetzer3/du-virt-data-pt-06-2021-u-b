@@ -4,19 +4,19 @@
 W. Avy likes your analysis, but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
 ## Results
-#####June Statistics:
+##### June Statistics:
 
 ![image_name](./Resources/describe_june.png)
 
-#####December Statistics:
+##### December Statistics:
 
 ![image_name](./Resources/describe_december.png)
 
-#####June Results:
+##### June Results:
 
 ![image_name](./Resources/june_hist.png)
 
-#####December Results:
+##### December Results:
 
 ![image_name](./Resources/dec_hist.png)
 
