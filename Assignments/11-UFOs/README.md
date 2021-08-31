@@ -9,7 +9,7 @@ the city, state, country, and shape.
 ## Results
 Once navigating to the UFO sightings webpage, the client will be presented with the
 basic webpage as well as a table of ALL UFO sightings:
-![image_name](./images/HomePage.png)
+![image_name](./static/images/HomePage.PNG)
 
 On the left hand side of the page, there are different filters that have been added to filter the table based on: date, city,
 state, country, and shape of the sightings.  Upon entering the search criteria in the blanks
@@ -17,7 +17,7 @@ of the desired filter, the webpage will show all of the sightings for that parti
 Multiple filters can be applied simultaneously to further inspect the data as needed.
 
 Search Criteria Using 1/10/2010 as the date and circle as the UFO shape:
-![image_name](./images/FilteredSearch.png)
+![image_name](./static/images/FilteredSearch.PNG)
 
 ## Summary
 For this challenge, I have created a webpage that looks clean and allows users to filter through
