@@ -7,11 +7,11 @@ Roza has a partially completed dashboard that she needs to finish. She has a com
 Using HTML, javascript, and plotly, I created a customized dashboard with a bar, bubble, and guage chart for different types of bacteria found in the test subjects bellybuttons.  The dashboard is able to be filtered by the Test Subject ID and returns data unique to that id.
 
 ### Home Page
-![image_name](./static/images/home_page.PNG)
+![image_name](./static/images/home_page.png)
 
 
 ### Test Search 1 (Test Subject ID # 959)
-![image_name](./static/images/search1.PNG)
+![image_name](./static/images/search1.png)
 
 ### Test Search 2 (Test Subject ID #1497)
-![image_name](./static/images/search2.PNG)
+![image_name](./static/images/search2.png)
