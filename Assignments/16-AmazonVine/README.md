@@ -2,6 +2,7 @@
 
 ## Overview
 In this project, I chose a data set from Amazon reviews regarding video games.  I used Pyspark to perform the ETL process by extracting the data, transforming the data, and connecting it to a database I generated on the AWS server.  My goal was to determine whether there is a favorable review biass from the Vine members for the video game dataset.
+![image_name](./images/game_df.PNG)
 
 ## Results 
 * There were a total of 40,565 reviews after the filter of >20 votes and helpful votes/total votes was greater than 50%
