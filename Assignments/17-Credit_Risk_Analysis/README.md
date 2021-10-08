@@ -23,3 +23,4 @@ Credit risk is tough to predict.  In this project, I needed analyze and predict 
 ![image_name](./images/easy_ensemble.PNG)
 
 ## Summary
+In the first four models I experimented with naive and smote oversampling, undersampling, and a combination of both to try and determine which model is best at predicting which loans are the highest risk. The next two models I resampled the data using balanced random forest and easy ensemble classifiers. In the first four models the accuracy score is not as high as the ensemble classifiers and the recall in the oversampling/undersampling/mixed models is low as well. Typically desirable models need a good balance of recall and precision which is why I recommend the easy ensemble classifiers over the first four models, since it had the best balance of all the models with its high accuracy score and precision/recall scores.
