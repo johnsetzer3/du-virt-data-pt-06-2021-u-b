@@ -11,7 +11,7 @@ Credit risk is tough to predict.  In this project, I needed analyze and predict 
 ![image_name](./images/smote_oversampling.PNG)
 
 * Undersampling results: The balanced accuracy score is 66.2%.  The precision for the high_risk loans is, again, 1% and has a recall of 69%
-![image_name](./images/oversampling_results.PNG)
+![image_name](./images/undersampling_results.PNG)
 
 * Combination results: The balanced accuracy score is 54.5%.  The precision for the high_risk loans is 1% and has a recall of 72%
 ![image_name](./images/combination.PNG)
